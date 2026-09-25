@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.skdhfa.cn/sitemap.xml
